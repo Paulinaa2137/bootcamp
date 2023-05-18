@@ -1,0 +1,22 @@
+h1{
+    color: red;
+    font-size: 50px; 
+
+}
+.bacon{
+background-color: green;
+width: 400px;
+}
+.braccoli{
+background-color: red;
+width: 400px;
+}
+#heading{
+    color: blue;
+}
+img:hover{
+    background-color: gold;
+}
+.circular{
+    border-radius: 100%;
+}
